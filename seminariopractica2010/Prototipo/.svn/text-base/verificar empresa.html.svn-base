@@ -1,0 +1,143 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Empresas</title>
+<style type="text/css">
+<!--
+.Estilo1 {color: #FFFFFF}
+.Estilo3 {
+	font-size: xx-large;
+	color: #999999;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+.Estilo4 {font-family: Arial, Helvetica, sans-serif}
+.Estilo7 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FFFFFF;
+}
+.Estilo9 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.Estilo11 {font-family: Arial, Helvetica, sans-serif; font-size: 12px; }
+.Estilo13 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #0000FF;
+}
+.Estilo14 {font-family: Arial, Helvetica, sans-serif; color: #FFFFFF; }
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="1" align="center" cellpadding="0" cellspacing="0" bordercolor="#0066CC">
+  <tr>
+    <td height="150" colspan="4" align="center" valign="middle" bordercolor="#FF0000" bgcolor="#0066CC"><p align="center" class="Estilo3"><img src="imagenes/images.jpg" alt="muni" width="110" height="128" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100" nowrap="nowrap" bgcolor="#0066CC"><div align="center" class="Estilo1"><a href="index.html">INICIO</a></div></td>
+    <td width="100" nowrap="nowrap" bgcolor="#0066CC"><div align="center" class="Estilo1"><a href="postulantes.html">POSTULANTES</a></div></td>
+    <td width="100" nowrap="nowrap" bgcolor="#0066CC"><div align="center" class="Estilo1"><a href="empresa.html">EMPRESAS</a></div></td>
+    <td width="218" nowrap="nowrap" bgcolor="#0066CC">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="4"><table width="800" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="158" height="150" rowspan="2" bgcolor="#0066CC"><div align="center">
+          <p align="left" class="Estilo14">Registra tu CV</p>
+          <p align="left" class="Estilo14">Registra tu Aviso</p>
+          <p align="left" class="Estilo14">Consulta nuestro blog </p>
+          <p align="left" class="Estilo14">Preguntas Frecuentes</p>
+          <p align="left" class="Estilo14">Acerca de</p>
+          <p align="left" class="Estilo14">Contacto</p>
+          <p align="left" class="Estilo14">Ayuda    </p>
+        </div></td>
+        <td width="312"><br />
+          <table width="150" border="1" align="center" cellpadding="0" cellspacing="0" bordercolor="#0066CC">
+            <tr>
+              <td><table width="225" border="0" align="center" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td width="225" colspan="2" bgcolor="#0066CC"><span class="Estilo9">Ya esta registrado? </span></td>
+                  </tr>
+                  <tr>
+                    <td colspan="2"><span class="Estilo4"></span></td>
+                  </tr>
+                  <tr>
+                    <td><span class="Estilo11">Usuario:
+                      <label></label>
+                    </span></td>
+                    <td><div align="right">
+                        <input type="text" name="textfield" />
+                    </div></td>
+                  </tr>
+                  <tr>
+                    <td colspan="2"><span class="Estilo4"> &nbsp; </span></td>
+                  </tr>
+                  <tr>
+                    <td class="Estilo11">Contrase&ntilde;a</td>
+                    <td class="Estilo11"><div align="right">
+                        <input type="text" name="textfield2" />
+                    </div></td>
+                  </tr>
+                  <tr>
+                    <td colspan="2"><span class="Estilo4">&nbsp;</span></td>
+                  </tr>
+                  <tr>
+                    <td colspan="2"><span class="Estilo13">Olvido su contrase&ntilde;a? </span></td>
+                  </tr>
+                  <tr>
+                    <td colspan="2"><div align="right">
+                        <label>
+                        <input type="submit" name="Submit" value="Ingresar" />
+                        </label>
+                    </div></td>
+                  </tr>
+              </table></td>
+            </tr>
+          </table></td>
+        <td width="312" valign="top"><br />
+            <table width="150" border="1" align="center" cellpadding="0" cellspacing="0" bordercolor="#0066CC">
+              <tr>
+                <td><table width="150" border="0" align="center" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td bgcolor="#0066CC"><span class="Estilo9">No esta registrado? </span></td>
+                    </tr>
+                    <tr>
+                      <td>&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td><span class="Estilo11">Carga tu aviso </span></td>
+                    </tr>
+                    <tr>
+                      <td>&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td><label>
+                        <input type="submit" name="Submit2" value="Registrate" />
+                      </label></td>
+                    </tr>
+                </table></td>
+              </tr>
+            </table></td>
+      </tr>
+      <tr>
+        <td colspan="2"><br /></td>
+      </tr>
+    </table>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td colspan="4" bgcolor="#0066CC"><div align="center" class="Estilo7">Pie de p&aacute;gina </div></td>
+  </tr>
+</table>
+</body>
+</html>

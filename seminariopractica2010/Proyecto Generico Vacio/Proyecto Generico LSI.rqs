@@ -1,0 +1,17 @@
+[Project]
+Owner=César
+Name=Generico
+GUID={F4BC0AFB-ED05-498E-935A-615B0814BC3E}
+Description=Proyecto generico, con plantillas de artefactos de RUP en castellano
+
+Owner Key=1
+Revision number=1.0003
+Prefix=
+NbrRequirements=0
+Directory=E:\Beca\Proyecto Generico LSI\Proyecto Generico LSI.rqs
+Key=1
+
+[Application]
+Data file version=1.0040
+Program Version=7.01.2007.1
+

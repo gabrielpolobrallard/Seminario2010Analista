@@ -1,0 +1,113 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Inicio</title>
+<style type="text/css">
+<!--
+.Estilo1 {color: #FFFFFF}
+.Estilo3 {
+	font-size: xx-large;
+	color: #999999;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+.Estilo4 {font-family: Arial, Helvetica, sans-serif}
+.Estilo6 {font-family: Arial, Helvetica, sans-serif; font-weight: bold; }
+.Estilo7 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FFFFFF;
+}
+.Estilo8 {font-family: Arial, Helvetica, sans-serif; color: #FFFFFF; }
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="1" align="center" cellpadding="0" cellspacing="0" bordercolor="#0066CC">
+  <tr>
+    <td height="150" colspan="4" align="center" valign="middle" bordercolor="#FF0000" bgcolor="#0066CC"><p align="center" class="Estilo3"><img src="imagenes/images.jpg" alt="muni" width="110" height="128" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100" nowrap="nowrap" bgcolor="#0066CC"><div align="center" class="Estilo1"><a href="index.html">INICIO</a></div></td>
+    <td width="100" nowrap="nowrap" bgcolor="#0066CC"><div align="center" class="Estilo1"><a href="postulantes.html">POSTULANTES</a></div></td>
+    <td width="100" nowrap="nowrap" bgcolor="#0066CC"><div align="center" class="Estilo1"><a href="empresa.html">EMPRESAS</a></div></td>
+    <td width="218" nowrap="nowrap" bgcolor="#0066CC">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="4"><table width="800" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="158" height="150" rowspan="2" valign="top" bgcolor="#0066CC"><div align="center">
+          <p align="left" class="Estilo8">Registra tu CV</p>
+          <p align="left" class="Estilo8">Registra tu Aviso</p>
+          <p align="left" class="Estilo8">Consulta nuestro blog </p>
+          <p align="left" class="Estilo8">Preguntas Frecuentes</p>
+          <p align="left" class="Estilo8">Acerca de</p>
+          <p align="left" class="Estilo8">Contacto</p>
+          <p align="left" class="Estilo8">Ayuda    </p>
+        </div></td>
+        <td width="626"><p>Nombre usuario:
+          <input type="text" name="nombre" size="25" maxlength="50" />
+        </p>
+          <p> Correo electr&oacute;nico:
+            <input type="text" value="@" name="correo" size="40" maxlength="100" />
+              <br />
+              <br />
+            Password:
+  <input type="text" name="poblacion" size="15" maxlength="50" />
+  <br />
+  <br />
+            Confirmar password
+            :
+  <input type="text" name="provincia" size="15" maxlength="50" />
+          </p>
+          <table width="100%" border="0" cellspacing="0" cellpadding="10">
+            <tr>
+              <td>&nbsp;</td>
+            </tr>
+          </table>
+          <br />
+          <input name="submit" type="submit" value="Registrarse" />
+          <br />
+<br />
+          <table width="281" border="0" align="center" cellpadding="0" cellspacing="1">
+          <tr>
+            <td width="130">&nbsp;</td>
+            <td width="148">&nbsp;</td>
+          </tr>
+        </table>
+          </td>
+      </tr>
+      <tr>
+        <td><br />
+          <table width="300" border="1" align="center" cellpadding="0" cellspacing="0" bordercolor="#0066CC">
+          <tr>
+            <td bordercolor="#0066FF" bgcolor="#0066FF"><div align="center"><span class="Estilo6">Ultimos empleos</span> </div></td>
+            </tr>
+          <tr>
+            <td>&nbsp;</td>
+            </tr>
+          <tr>
+            <td>&nbsp;</td>
+            </tr>
+          <tr>
+            <td>&nbsp;</td>
+            </tr>
+          <tr>
+            <td>&nbsp;</td>
+            </tr>
+        </table></td>
+      </tr>
+    </table>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td colspan="4" bgcolor="#0066CC"><div align="center" class="Estilo7">Pie de p&aacute;gina </div></td>
+  </tr>
+</table>
+</body>
+</html>
